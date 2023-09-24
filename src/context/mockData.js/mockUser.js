@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default {
   login: "nikamerebashvili95",
   id: 114658102,
